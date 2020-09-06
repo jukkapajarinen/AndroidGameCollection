@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string name="app_store_link">https://jukkapajarinen.github.io</string>
+  <string name="app_name">表情数独</string>
+  <string name="app_subtitle">\@jukkapajarinen</string>
+  <string name="dia_title_game_over">恭喜！ </string>
+  <string name="dia_title_game_over_2">不好了！</string>
+  <string name="dia_title_settings">设置</string>
+  <string name="dia_title_loading">游戏加载</string>
+  <string name="dia_btn_rematch">新游戏</string>
+  <string name="dia_btn_continue">继续</string>
+  <string name="dia_btn_exit">出口</string>
+  <string name="dia_btn_cancel">取消</string>
+  <string name="dia_btn_reset">重启</string>
+  <string name="dia_btn_save">保存</string>
+  <string name="content_game_over">游戏完成。</string>
+  <string name="content_game_over_2">有什么不对。</string>
+  <string name="toast_ads_now_removed">广告现在被删除。 请享用！</string>
+  <string name="toast_no_moves_to_undo">没有动作撤销</string>
+  <string name="toast_no_more_hints">没有更帮助</string>
+  <string name="toast_paused">游戏暂停</string>
+  <string name="pref_difficulty">难点</string>
+  <string name="pref_difficulty_easy">不难</string>
+  <string name="pref_difficulty_intermediate">中难</string>
+  <string name="pref_difficulty_hard">难</string>
+  <string name="pref_total_hints">帮助量</string>
+  <string name="pref_timer_checkbox">显示计时器</string>
+  <string name="pref_mysterious_code">神秘的代码</string>
+</resources>
