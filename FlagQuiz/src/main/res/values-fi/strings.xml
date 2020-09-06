@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string name="app_store_link">https://play.google.com/store/apps/details?id=fi.jukkapajarinen.flagquiz</string>
+  <string name="app_name">Flag Quiz</string>
+  <string name="app_subtitle">\@jukkapajarinen</string>
+  <string name="dia_title_game_over">Onnittelut!</string>
+  <string name="dia_title_game_over_2">Ou nou!</string>
+  <string name="dia_title_settings">Asetukset</string>
+  <string name="dia_btn_rematch">Uusi peli</string>
+  <string name="dia_btn_continue">Jatka</string>
+  <string name="dia_btn_exit">Poistu</string>
+  <string name="dia_btn_cancel">Peruuta</string>
+  <string name="dia_btn_reset">Resetoi</string>
+  <string name="dia_btn_save">Tallenna</string>
+  <string name="content_game_over">Olet lippuexpertti!</string>
+  <string name="content_game_over_2">Parempi onni ensi kerralla.</string>
+  <string name="content_question_text">Kysymys</string>
+  <string name="content_right_text">Oikein</string>
+  <string name="content_wrong_text">Väärin</string>
+  <string name="toast_ads_now_removed">Mainokset on nyt poistettu. Nauti pelistä!</string>
+  <string name="toast_no_more_skips">Kaikki skipit on jo käytetty</string>
+  <string name="toast_paused">Peli pysäytetty</string>
+  <string name="toast_unpaused">Peliä jatkettu</string>
+  <string name="toast_skipped">Kysymys skipattu</string>
+  <string name="pref_questions_amount">Kysymysten määrä</string>
+  <string name="pref_total_skips">Skippien määrä</string>
+  <string name="pref_timer_checkbox">Näytä aika</string>
+  <string name="pref_mysterious_code">Mysteerikoodi</string>
+</resources>
