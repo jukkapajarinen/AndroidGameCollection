@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string name="app_store_link">https://play.google.com/store/apps/details?id=fi.jukkaboyar.colorpong</string>
+  <string name="app_name">Superpong</string>
+  <string name="app_subtitle">\@jukkapajarinen</string>
+  <string name="dia_title_game_over">Peli on päättynyt</string>
+  <string name="dia_title_settings">Asetukset</string>
+  <string name="dia_btn_cancel">Peruuta</string>
+  <string name="dia_btn_exit">Poistu</string>
+  <string name="dia_btn_rematch">Revanssi</string>
+  <string name="dia_btn_reset">Resetoi</string>
+  <string name="dia_btn_save">Tallenna</string>
+  <string name="content_player1_won">Punainen pelaaja voitti.</string>
+  <string name="content_player2_won">Sininen pelaaja voitti.</string>
+  <string name="toast_ads_now_removed">Mainokset on nyt poistettu. Nauti pelistä!</string>
+  <string name="pref_player_mode">Pelaajat</string>
+  <string name="pref_mysterious_code">Mysteerikoodi</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string-array name="player_modes">
+    <item>1</item>
+    <item>2</item>
+  </string-array>
+  <string-array name="item_names">
+    <item>Small paddle</item>
+    <item>Big paddle</item>
+    <item>Color trick</item>
+    <item>Extra balls</item>
+    <item>Slow motion</item>
+    <item>Fast motion</item>
+    <item>Force push</item>
+    <item>Color wall</item>
+    <item>Tsunami</item>
+  </string-array>
+</resources>

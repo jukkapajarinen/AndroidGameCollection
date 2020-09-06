@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string-array name="player_modes">
+    <item>1</item>
+    <item>2</item>
+  </string-array>
+  <string-array name="item_names">
+    <item>小球拍</item>
+    <item>大球拍</item>
+    <item>彩色魔术</item>
+    <item>额外的球</item>
+    <item>慢动作</item>
+    <item>快速运作</item>
+    <item>强力推</item>
+    <item>彩墙</item>
+    <item>海啸</item>
+  </string-array>
+</resources>

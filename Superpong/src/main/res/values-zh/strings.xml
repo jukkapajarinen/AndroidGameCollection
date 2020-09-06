@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string name="app_store_link">https://jukkapajarinen.github.io</string>
+  <string name="app_name">超级乒乓</string>
+  <string name="app_subtitle">\@jukkapajarinen</string>
+  <string name="dia_title_game_over">恭喜！</string>
+  <string name="dia_title_settings">设置</string>
+  <string name="dia_btn_rematch">新游戏</string>
+  <string name="dia_btn_exit">出口</string>
+  <string name="dia_btn_cancel">取消</string>
+  <string name="dia_btn_reset">重启</string>
+  <string name="dia_btn_save">保存</string>
+  <string name="content_player1_won">红玩家赢了。</string>
+  <string name="content_player2_won">蓝玩家赢了。</string>
+  <string name="toast_ads_now_removed">广告现在被删除。 请享用！</string>
+  <string name="pref_player_mode">玩家</string>
+  <string name="pref_mysterious_code">神秘的代码</string>
+</resources>

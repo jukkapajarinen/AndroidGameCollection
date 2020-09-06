@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string-array name="player_modes">
+    <item>1</item>
+    <item>2</item>
+  </string-array>
+  <string-array name="item_names">
+    <item>Pieni maila</item>
+    <item>Iso maila</item>
+    <item>Väritemppu</item>
+    <item>Extra pallot</item>
+    <item>Hidastus</item>
+    <item>Nopeutus</item>
+    <item>Työntö</item>
+    <item>Väriseinä</item>
+    <item>Tsunami</item>
+  </string-array>
+</resources>

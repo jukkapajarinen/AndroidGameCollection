@@ -10,6 +10,7 @@ build/
 app/build/
 captures/
 release/
+keys.xml
 
 # Gradle specific
 .gradle/
