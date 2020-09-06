@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string name="app_store_link">https://play.google.com/store/apps/details?id=fi.jukkapajarinen.floodit</string>
+  <string name="app_name">Flood It</string>
+  <string name="app_subtitle">\@jukkapajarinen</string>
+  <string name="dia_title_game_over">Onnittelut!</string>
+  <string name="dia_title_game_over_2">Ou nou!</string>
+  <string name="dia_title_settings">Asetukset</string>
+  <string name="dia_btn_rematch">Uusi peli</string>
+  <string name="dia_btn_continue">Jatka</string>
+  <string name="dia_btn_exit">Poistu</string>
+  <string name="dia_btn_cancel">Peruuta</string>
+  <string name="dia_btn_reset">Resetoi</string>
+  <string name="dia_btn_save">Tallenna</string>
+  <string name="content_game_over">Läpäisit pelin.</string>
+  <string name="content_game_over_2">Käytit liian paljon siirtoja.</string>
+  <string name="content_moves_text">Siirrot</string>
+  <string name="toast_ads_now_removed">Mainokset on nyt poistettu. Nauti pelistä!</string>
+  <string name="toast_paused">Peli pysäytetty</string>
+  <string name="toast_unpaused">Peli käynnistetty</string>
+  <string name="toast_help">Valitse uusi väri alhaalta</string>
+  <string name="pref_board_size">Laudan koko</string>
+  <string name="pref_moves_checkbox">Näytä siirrot</string>
+  <string name="pref_timer_checkbox">Näytä aika</string>
+  <string name="pref_mysterious_code">Mysteerikoodi</string>
+</resources>
