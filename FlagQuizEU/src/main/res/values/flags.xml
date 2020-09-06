@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string name="flag_at">Austria</string>
+  <string name="flag_be">Belgium</string>
+  <string name="flag_bg">Bulgaria</string>
+  <string name="flag_cy">Cyprus</string>
+  <string name="flag_cz">Czechia</string>
+  <string name="flag_de">Germany</string>
+  <string name="flag_dk">Denmark</string>
+  <string name="flag_ee">Estonia</string>
+  <string name="flag_es">Spain</string>
+  <string name="flag_eu">European Union</string>
+  <string name="flag_fi">Finland</string>
+  <string name="flag_fr">France</string>
+  <string name="flag_gb">United Kingdom</string>
+  <string name="flag_gr">Greece</string>
+  <string name="flag_hr">Croatia</string>
+  <string name="flag_hu">Hungary</string>
+  <string name="flag_ie">Ireland</string>
+  <string name="flag_it">Italy</string>
+  <string name="flag_lt">Lithuania</string>
+  <string name="flag_lu">Luxembourg</string>
+  <string name="flag_lv">Latvia</string>
+  <string name="flag_mt">Malta</string>
+  <string name="flag_nl">Netherlands</string>
+  <string name="flag_pl">Poland</string>
+  <string name="flag_pt">Portugal</string>
+  <string name="flag_ro">Romania</string>
+  <string name="flag_se">Sweden</string>
+  <string name="flag_si">Slovenia</string>
+  <string name="flag_sk">Slovakia</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string name="flag_at">奥地利</string>
+  <string name="flag_be">比利時</string>
+  <string name="flag_bg">保加利亚</string>
+  <string name="flag_cy">賽普勒斯</string>
+  <string name="flag_cz">捷克</string>
+  <string name="flag_de">德國</string>
+  <string name="flag_dk">丹麥</string>
+  <string name="flag_ee">爱沙尼亚</string>
+  <string name="flag_es">西班牙</string>
+  <string name="flag_eu">欧洲联盟</string>
+  <string name="flag_fi">芬兰</string>
+  <string name="flag_fr">法国</string>
+  <string name="flag_gb">英國</string>
+  <string name="flag_gr">希臘</string>
+  <string name="flag_hr">克罗地亚</string>
+  <string name="flag_hu">匈牙利</string>
+  <string name="flag_ie">爱尔兰</string>
+  <string name="flag_it">義大利</string>
+  <string name="flag_lt">立陶宛</string>
+  <string name="flag_lu">卢森堡</string>
+  <string name="flag_lv">拉脫維亞</string>
+  <string name="flag_mt">馬爾他</string>
+  <string name="flag_nl">荷蘭</string>
+  <string name="flag_pl">波蘭</string>
+  <string name="flag_pt">葡萄牙</string>
+  <string name="flag_ro">羅馬尼亞</string>
+  <string name="flag_se">瑞典</string>
+  <string name="flag_si">斯洛維尼亞</string>
+  <string name="flag_sk">斯洛伐克</string>
+</resources>

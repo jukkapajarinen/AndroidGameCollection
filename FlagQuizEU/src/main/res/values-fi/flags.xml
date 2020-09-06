@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string name="flag_at">Itävalta</string>
+  <string name="flag_be">Belgia</string>
+  <string name="flag_bg">Bulgaria</string>
+  <string name="flag_cy">Kypros</string>
+  <string name="flag_cz">Tšekki</string>
+  <string name="flag_de">Saksa</string>
+  <string name="flag_dk">Tanska</string>
+  <string name="flag_ee">Viro</string>
+  <string name="flag_es">Espanja</string>
+  <string name="flag_eu">Euroopan Unioni</string>
+  <string name="flag_fi">Suomi</string>
+  <string name="flag_fr">Ranska</string>
+  <string name="flag_gb">Yhdistynyt kuningaskunta</string>
+  <string name="flag_gr">Kreikka</string>
+  <string name="flag_hr">Kroatia</string>
+  <string name="flag_hu">Unkari</string>
+  <string name="flag_ie">Irlanti</string>
+  <string name="flag_it">Italia</string>
+  <string name="flag_lt">Liettua</string>
+  <string name="flag_lu">Luxemburg</string>
+  <string name="flag_lv">Latvia</string>
+  <string name="flag_mt">Malta</string>
+  <string name="flag_nl">Alankomaat</string>
+  <string name="flag_pl">Puola</string>
+  <string name="flag_pt">Portugali</string>
+  <string name="flag_ro">Romania</string>
+  <string name="flag_se">Ruotsi</string>
+  <string name="flag_si">Slovenia</string>
+  <string name="flag_sk">Slovakia</string>
+</resources>
