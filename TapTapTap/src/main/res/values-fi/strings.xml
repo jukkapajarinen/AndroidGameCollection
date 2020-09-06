@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string name="app_store_link">https://play.google.com/store/apps/details?id=fi.jukkapajarinen.taptaptap</string>
+  <string name="app_name">Tap Tap Tap</string>
+  <string name="app_subtitle">\@jukkapajarinen</string>
+  <string name="dia_title_game_over">Onnittelut!</string>
+  <string name="dia_title_game_over_2">Ou nou!</string>
+  <string name="dia_title_settings">Asetukset</string>
+  <string name="dia_btn_rematch">Uusi peli</string>
+  <string name="dia_btn_continue">Jatka</string>
+  <string name="dia_btn_exit">Poistu</string>
+  <string name="dia_btn_cancel">Peruuta</string>
+  <string name="dia_btn_reset">Resetoi</string>
+  <string name="dia_btn_save">Tallenna</string>
+  <string name="content_moves_text">Tulos</string>
+  <string name="toast_ads_now_removed">Mainokset on nyt poistettu. Nauti pelistä!</string>
+  <string name="toast_paused">Peli pysäytetty</string>
+  <string name="toast_unpaused">Peli käynnistetty</string>
+  <string name="toast_help">Paina tummaa neliötä!</string>
+  <string name="pref_board_size">Laudan koko</string>
+  <string name="pref_game_speed">Alkunopeus</string>
+  <string name="pref_moves_checkbox">Näytä tulos</string>
+  <string name="pref_timer_checkbox">Näytä aika</string>
+  <string name="pref_mysterious_code">Mysteerikoodi</string>
+</resources>

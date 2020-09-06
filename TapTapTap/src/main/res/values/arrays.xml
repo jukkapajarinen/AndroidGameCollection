@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string-array name="boardSizes">
+    <item>4x4</item>
+    <item>8x8</item>
+    <item>16x16</item>
+  </string-array>
+  <string-array name="gameSpeeds">
+    <item>Slow</item>
+    <item>Medium</item>
+    <item>Fast</item>
+    <item>Super fast</item>
+  </string-array>
+</resources>
