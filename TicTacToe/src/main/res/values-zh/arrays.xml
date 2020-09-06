@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string-array name="player_modes">
+    <item>1 个人</item>
+    <item>2 个人</item>
+  </string-array>
+</resources>

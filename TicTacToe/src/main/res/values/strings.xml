@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string name="app_store_link">https://play.google.com/store/apps/details?id=fi.jukkapajarinen.tictactoe</string>
+  <string name="app_name">Tic Tac Toe</string>
+  <string name="app_subtitle">\@jukkapajarinen</string>
+  <string name="dia_title_game_over">Congratulations!</string>
+  <string name="dia_title_game_over_2">It\'s a tie!</string>
+  <string name="dia_title_settings">Settings</string>
+  <string name="dia_btn_rematch">New game</string>
+  <string name="dia_btn_continue">Continue</string>
+  <string name="dia_btn_exit">Exit</string>
+  <string name="dia_btn_cancel">Cancel</string>
+  <string name="dia_btn_reset">Reset</string>
+  <string name="dia_btn_save">Save</string>
+  <string name="content_game_over">is the winner!</string>
+  <string name="content_game_over_2">That was a good match!</string>
+  <string name="content_moves_text">Moves</string>
+  <string name="content_turn_text">Turn</string>
+  <string name="toast_ads_now_removed">Ads are now removed. Enjoy!</string>
+  <string name="toast_paused">Game paused</string>
+  <string name="toast_unpaused">Game resumed</string>
+  <string name="toast_help">Please select an empty square</string>
+  <string name="pref_player_mode">Players</string>
+  <string name="pref_moves_checkbox">Show moves</string>
+  <string name="pref_timer_checkbox">Show timer</string>
+  <string name="pref_mysterious_code">Mystery code</string>
+</resources>
