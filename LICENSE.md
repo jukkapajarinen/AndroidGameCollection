@@ -2,4 +2,4 @@ Copyright (C) Jukka Pajarinen - All Rights Reserved
 
 Unauthorized copying of this project, via any medium is strictly prohibited proprietary and confidential
 
-Written by Jukka Pajarinen <jukka.pajarinen@lumitum.com>, Sep 2020
+Written by Jukka Pajarinen <jukka.pajarinen@lumitum.com>, Oct 2020
