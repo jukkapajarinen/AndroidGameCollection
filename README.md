@@ -1,5 +1,5 @@
 # AndroidGameCollection
-Collection of all my Android-sdk games.
+Collection of all my Android-sdk games. Please leave a :star: if you find these useful. :+1:
 
 ## List of games
 
