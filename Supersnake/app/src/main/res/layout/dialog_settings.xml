@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                             xmlns:app="http://schemas.android.com/apk/res-auto"
+                                             xmlns:tools="http://schemas.android.com/tools"
+                                             android:layout_width="wrap_content"
+                                             android:layout_height="wrap_content"
+                                             android:minWidth="220dp"
+                                             android:orientation="vertical"
+                                             app:layout_editor_absoluteY="160dp"
+                                             tools:layout_editor_absoluteY="25dp">
+
+    <android.support.constraint.Guideline
+      android:id="@+id/verticalGuidelineLeft"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:orientation="vertical"
+      app:layout_constraintGuide_begin="24dp"/>
+
+    <android.support.constraint.Guideline
+      android:id="@+id/verticalGuidelineRight"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:orientation="vertical"
+      app:layout_constraintGuide_end="24dp"/>
+
+    <android.support.constraint.Guideline
+      android:id="@+id/horizontalGuidelineTop"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal"
+      app:layout_constraintGuide_begin="24dp"/>
+
+    <android.support.constraint.Guideline
+      android:id="@+id/horizontalGuidelineBottom"
+      android:layout_width="0dp"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal"
+      app:layout_constraintGuide_end="24dp"/>
+
+    <TextView
+      android:id="@+id/speedLabel"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="@string/pref_speed_mode"
+      android:textColor="#ff000000"
+      app:layout_constraintBaseline_toBaselineOf="@+id/speedModeSpinner"
+      app:layout_constraintEnd_toStartOf="@+id/speedModeSpinner"
+      app:layout_constraintHorizontal_bias="0.5"
+      app:layout_constraintHorizontal_chainStyle="spread_inside"
+      app:layout_constraintStart_toStartOf="@+id/verticalGuidelineLeft"/>
+
+    <Spinner
+      android:id="@+id/speedModeSpinner"
+      android:layout_width="0dp"
+      android:layout_height="wrap_content"
+      android:entries="@array/speed_modes"
+      android:textAlignment="textEnd"
+      app:layout_constraintBottom_toTopOf="@+id/mysteryCodeEditText"
+      app:layout_constraintEnd_toStartOf="@+id/verticalGuidelineRight"
+      app:layout_constraintHorizontal_bias="0.5"
+      app:layout_constraintStart_toEndOf="@+id/speedLabel"
+      app:layout_constraintTop_toBottomOf="@+id/horizontalGuidelineTop"/>
+
+    <TextView
+      android:id="@+id/mysteryCodeLabel"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:labelFor="@+id/mysteryCodeEditText"
+      android:text="@string/pref_mysterious_code"
+      android:textColor="#ff000000"
+      app:layout_constraintBaseline_toBaselineOf="@+id/mysteryCodeEditText"
+      app:layout_constraintEnd_toStartOf="@+id/mysteryCodeEditText"
+      app:layout_constraintHorizontal_bias="0.5"
+      app:layout_constraintHorizontal_chainStyle="spread_inside"
+      app:layout_constraintStart_toStartOf="@+id/verticalGuidelineLeft"/>
+
+    <EditText
+      android:id="@+id/mysteryCodeEditText"
+      android:layout_width="0dp"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="16dp"
+      android:backgroundTint="#ffd9534f"
+      android:inputType="textPersonName"
+      android:maxLines="1"
+      android:textAlignment="textEnd"
+      android:textSize="14sp"
+      app:layout_constraintBottom_toTopOf="@+id/horizontalGuidelineBottom"
+      app:layout_constraintEnd_toStartOf="@+id/verticalGuidelineRight"
+      app:layout_constraintHorizontal_bias="0.5"
+      app:layout_constraintStart_toEndOf="@+id/mysteryCodeLabel"
+      app:layout_constraintTop_toBottomOf="@+id/speedModeSpinner"/>
+
+</android.support.constraint.ConstraintLayout>

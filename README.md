@@ -1,5 +1,5 @@
 # AndroidGameCollection
-Collection of all my Android-sdk games. Please leave a :star: if you find these useful. :+1:  
+Collection of all my Android-sdk games. Please leave a :star: if you find these useful. :+1:
 I decided to make all of it open source and to publish them with MIT license. Have fun! :smile:
 
 ## List of games
@@ -13,7 +13,8 @@ I decided to make all of it open source and to publish them with MIT license. Ha
 * [Emojidoku](https://play.google.com/store/apps/details?id=fi.jukkapajarinen.emojidoku)
 * [TicTacToe](https://play.google.com/store/apps/details?id=fi.jukkapajarinen.tictactoe)
 * [FlappyBlock](https://play.google.com/store/apps/details?id=fi.jukkapajarinen.flappyblock)
-* [TapTapTap](https://play.google.com/store/apps/details?id=fi.jukkapajarinen.taptaptap)
+* [TapTapTap](./TapTapTap)
+* [Supersnake](./Supersnake)
 
 ## License
 

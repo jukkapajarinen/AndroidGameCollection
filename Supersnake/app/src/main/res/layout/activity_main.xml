@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                             xmlns:ads="http://schemas.android.com/apk/res-auto"
+                                             xmlns:app="http://schemas.android.com/apk/res-auto"
+                                             xmlns:tools="http://schemas.android.com/tools"
+                                             android:id="@+id/mainLayout"
+                                             android:layout_width="match_parent"
+                                             android:layout_height="match_parent"
+                                             android:background="#ffd9534f">
+
+    <android.support.constraint.Guideline
+      android:id="@+id/horizontalGuideline"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal"
+      app:layout_constraintGuide_percent="0.625"
+      tools:layout_editor_absoluteX="0dp"
+      tools:layout_editor_absoluteY="355dp"/>
+
+    <View
+      android:id="@+id/topBackground"
+      android:layout_width="0dp"
+      android:layout_height="0dp"
+      android:background="#ff209cee"
+      ads:layout_constraintBottom_toTopOf="@+id/horizontalGuideline"
+      ads:layout_constraintHorizontal_bias="0.0"
+      ads:layout_constraintLeft_toLeftOf="parent"
+      ads:layout_constraintRight_toRightOf="parent"
+      ads:layout_constraintTop_toTopOf="parent"
+      ads:layout_constraintVertical_bias="0.0"/>
+
+    <TextView
+      android:id="@+id/appTitle"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="@string/app_name"
+      android:textAlignment="center"
+      android:textColor="#ffffffff"
+      android:textSize="36sp"
+      app:layout_constraintBottom_toTopOf="@+id/horizontalGuideline"
+      app:layout_constraintLeft_toLeftOf="parent"
+      app:layout_constraintRight_toRightOf="parent"
+      app:layout_constraintTop_toTopOf="parent"/>
+
+    <TextView
+      android:id="@+id/subTitle"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="20dp"
+      android:text="@string/app_subtitle"
+      android:textAlignment="center"
+      android:textColor="#ffffffff"
+      android:textSize="14sp"
+      android:textStyle="bold"
+      ads:layout_constraintLeft_toLeftOf="parent"
+      ads:layout_constraintRight_toRightOf="parent"
+      ads:layout_constraintTop_toBottomOf="@+id/appTitle"/>
+
+    <android.support.design.widget.FloatingActionButton
+      android:id="@+id/playFAB"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:clickable="true"
+      android:tint="#ff1a2531"
+      ads:backgroundTint="#fff5f5f5"
+      app:fabSize="normal"
+      app:layout_constraintBottom_toTopOf="@+id/horizontalGuideline"
+      app:layout_constraintLeft_toLeftOf="parent"
+      app:layout_constraintRight_toRightOf="parent"
+      app:layout_constraintTop_toTopOf="@+id/horizontalGuideline"
+      app:srcCompat="@drawable/ic_play"/>
+
+    <android.support.design.widget.FloatingActionButton
+      android:id="@+id/shareFAB"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginLeft="40dp"
+      android:clickable="true"
+      android:tint="#ff1a2531"
+      ads:backgroundTint="#fff5f5f5"
+      app:fabSize="mini"
+      app:layout_constraintBottom_toTopOf="@+id/horizontalGuideline"
+      app:layout_constraintLeft_toRightOf="@+id/playFAB"
+      app:layout_constraintTop_toTopOf="@+id/horizontalGuideline"
+      app:srcCompat="@drawable/ic_share"/>
+
+    <android.support.design.widget.FloatingActionButton
+      android:id="@+id/settingsFAB"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginRight="40dp"
+      android:clickable="true"
+      android:tint="#ff1a2531"
+      ads:backgroundTint="#fff5f5f5"
+      app:fabSize="mini"
+      app:layout_constraintBottom_toTopOf="@+id/horizontalGuideline"
+      app:layout_constraintRight_toLeftOf="@+id/playFAB"
+      app:layout_constraintTop_toTopOf="@+id/horizontalGuideline"
+      app:srcCompat="@drawable/ic_settings"/>
+
+    <com.google.android.gms.ads.AdView
+      android:id="@+id/adView"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      ads:adSize="BANNER"
+      ads:adUnitId="@string/admob_banner_unit_id"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintLeft_toLeftOf="parent"
+      app:layout_constraintRight_toRightOf="parent"/>
+
+</android.support.constraint.ConstraintLayout>

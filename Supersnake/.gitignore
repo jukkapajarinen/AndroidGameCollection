@@ -1,0 +1,16 @@
+# MacOS Specific
+.DS_Store
+
+# JetBrains specific
+*.iml
+.idea/
+
+# Android project specific
+build/
+app/build/
+captures/
+release/
+
+# Gradle specific
+.gradle/
+local.properties
