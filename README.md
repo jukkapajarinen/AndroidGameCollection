@@ -1,6 +1,6 @@
 # AndroidGameCollection
-Collection of all my Android-sdk games. Please leave a :star: if you find these useful. :+1:
-I decided to make all of it open source and to publish them with MIT license. Have fun! :smile:
+Collection of all my Android-sdk games and my custom 2D game engine [AndroidGameLoop](./AndroidGameLoop). Please leave a :star: if you find these useful. :+1:
+I decided to make all of it open source and to publish them with MIT license. Some of games are also published to Google Play Store. Have fun! :smile:
 
 ## List of games
 
@@ -15,6 +15,10 @@ I decided to make all of it open source and to publish them with MIT license. Ha
 * [FlappyBlock](https://play.google.com/store/apps/details?id=fi.jukkapajarinen.flappyblock)
 * [TapTapTap](./TapTapTap)
 * [Supersnake](./Supersnake)
+
+## Author
+
+- [Jukka Pajarinen](https://www.jukkapajarinen.com)
 
 ## License
 
